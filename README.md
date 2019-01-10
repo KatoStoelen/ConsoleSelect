@@ -36,7 +36,7 @@ By default, `UpArrow` and `DownArrow` is used to move selection up and down. `En
 
 ## Customization
 
-The `ConsoleSelect(ConsoleSelect.Settings settings)` constructor can be used to custimize the following:
+The `ConsoleSelect(ConsoleSelect.Settings settings)` constructor can be used to customize the following:
 
 |Property|Default|Description|
 |---|---|---|
