@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
-namespace Ardoq.Consl
+namespace ConsoleStuff
 {
     public class ConsoleSelect
     {
